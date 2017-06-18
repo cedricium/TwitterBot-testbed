@@ -1,2 +1,5 @@
 # twitter user config file
 config.js
+
+# latest tweet activity
+tweet.json
