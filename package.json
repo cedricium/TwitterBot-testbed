@@ -1,0 +1,23 @@
+{
+  "name": "twitterbot-testbed",
+  "version": "1.0.0",
+  "description": "The code used for making multiple (eventually) Twitter bots.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedricium/TwitterBot-testbed.git"
+  },
+  "author": "Cedric Amaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedricium/TwitterBot-testbed/issues"
+  },
+  "homepage": "https://github.com/cedricium/TwitterBot-testbed#readme",
+  "dependencies": {
+    "image-downloader": "^3.2.2",
+    "twit": "^2.2.9"
+  }
+}
